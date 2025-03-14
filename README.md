@@ -11,7 +11,7 @@ In this paper, we present the first qualitative study that explores the human di
 
 **Replication Package:** This repository contains the following supporting materials:
 
-- Codebook
 - Recruitment Email
 - Demographic Survey
 - Study Questionnaire
+- Codebook
