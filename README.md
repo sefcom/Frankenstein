@@ -12,6 +12,7 @@ In this paper, we present the first qualitative study that explores the human di
 **Replication Package:** This repository contains the following supporting materials:
 
 - Recruitment Email
+- Recruitment Poster (for Social Media Outreach)
 - Demographic Survey
 - Study Questionnaire
 - Codebook
