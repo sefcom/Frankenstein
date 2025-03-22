@@ -13,6 +13,7 @@ In this paper, we present the first qualitative study that explores the human di
 
 - [Recruitment Email](https://github.com/sefcom/Frankenstein/blob/master/Recruitment_Email.pdf)
 - [Recruitment Poster](https://github.com/sefcom/Frankenstein/blob/master/Recruitment_Poster.jpeg) (for Social Media Outreach)
+- [Recruitment and Screening Survey](https://github.com/sefcom/Frankenstein/blob/master/Recruitment_Screening_Survey.pdf)
 - [Demographic Survey](https://github.com/sefcom/Frankenstein/blob/master/Demographic_Survey.pdf)
 - [Study Questionnaire](https://github.com/sefcom/Frankenstein/blob/master/Study_Protocol.pdf)
 - [Codebook](https://github.com/sefcom/Frankenstein/blob/master/Codebook.pdf)
