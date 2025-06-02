@@ -1,6 +1,6 @@
 # Frankenstein Replication Package
 
-**Paper:** “It’s almost like Frankenstein”: Investigating the Complexities of Scientific Collaboration and Privilege Management within Research Computing Infrastructures
+**Paper:** “It’s almost like Frankenstein”: Investigating the Complexities of Scientific Collaboration and Privilege Management within Research Computing Infrastructures [[pdf]](https://sefcom.asu.edu/publications/frankenstein-sp2025.pdf)
 
 **Authors**: Souradip Nath, Ananta Soneji, Jaejong Baek, Tiffany Bao, Adam Doupé, Carlos Rubio-Medrano and Gail-Joon Ahn
 
@@ -17,3 +17,16 @@ In this paper, we present the first qualitative study that explores the human di
 - [Demographic Survey](https://github.com/sefcom/Frankenstein/blob/master/Demographic_Survey.pdf)
 - [Study Questionnaire](https://github.com/sefcom/Frankenstein/blob/master/Study_Protocol.pdf)
 - [Codebook](https://github.com/sefcom/Frankenstein/blob/master/Codebook.pdf)
+
+**Citation:** If you would like to cite the paper, please use the following:
+
+```
+@inproceedings{nath2025s,
+  title={{“It’s almost like Frankenstein”: Investigating the Complexities of Scientific Collaboration and Privilege Management within Research Computing Infrastructures}},
+  author={Nath, Souradip and Soneji, Ananta and Baek, Jaejong and Bao, Tiffany and Doup{\'e}, Adam and Rubio-Medrano, Carlos and Ahn, Gail-Joon},
+  booktitle={2025 IEEE Symposium on Security and Privacy (SP)},
+  pages={2995--3013},
+  year={2025},
+  organization={IEEE Computer Society}
+}
+```
